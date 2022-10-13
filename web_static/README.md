@@ -1,1 +1,1 @@
-my readme for airbnb sql web static
+This is a readme that implements webpage design.
